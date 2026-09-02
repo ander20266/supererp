@@ -638,18 +638,6 @@ AI 不仅提供聊天能力，还计划结合销售、库存、采购、生产�
 
 ---
 
-# 项目仓库
-
-Backend：
-
-https://github.com/weigu2700-cell/smart-erp
-
-Frontend：
-
-https://github.com/weigu2700-cell/smart-erp-fond
-
----
-
 # 项目目标
 
 SmartERP 的目标不是单纯实现一个后台管理系统，而是通过完整制造业业务场景，持续学习和实践：
